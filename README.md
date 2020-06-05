@@ -1,12 +1,11 @@
 # SHIV-project
 
 # Description:
-This is an open-source project to visualize satellite data for hurricanes, tropical storms, and lightning strikes
-<Better description to be written?>
+This is an open-source project to visualize satellite data for hurricanes, tropical storms, and lightning strikes.
 
 Video:
-<Link goes here>
+Link goes here
 
 License:
-<We need to find an open-source license that works for us>
+We should find an open-source license that works for us
   
