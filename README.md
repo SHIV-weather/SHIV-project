@@ -17,3 +17,6 @@ The atmospheric science community often relies on visualization of observed data
 **Sam Hardin**: Finishing his undergraduate degree in Computer Science from DigiPen Institute of Technology, his focus has been on programming, real-time interactions, and mathematics. His role will be to help develop the backend of the project as well as be a consultant on Unreal's APIs for other teammates.
 
 **Matthew Gilbert**: Matthew's areas of expertise are programming, game engines, and machine learning. He is a recent graduate from the undergraduate Computer Science program at DigiPen Institute of Technology in Redmond, Washington. He is currently pursuing his graduate degree with a focus on image processing and machine learning, with a planned graduation date of December, 2020.
+
+# Contact Us
+If you're curious, want to know more, or are looking for ways to help out, shoot us an email at shivweatherproject@gmail.com
