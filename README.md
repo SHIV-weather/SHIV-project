@@ -2,7 +2,7 @@
 An open-source application built with Unreal Engine 4 (UE4), known as the Storm and Hurricane Interactive Visualizer (SHIV). Our main goal is to provide an ‘interactive and extensible environment for authoring visualizations,’ to a wide spectrum of users - from researchers and meteorologists to casual weather observers. Through SHIV, users will be able to access, author, and export customizable weather data visualizations. 
 
 # Video
-https://youtu.be/TQ9CsekrDEg
+https://youtu.be/AI84bBtcTp0
 
 # Why make this tool?
 The atmospheric science community often relies on visualization of observed data for routine analysis and weather prediction. For example, the intensity of hurricanes is estimated by observing specific cloud patterns in satellite images, a method known as the Dvorak Technique. Visual cues and multiplatform datasets are essential to estimate the severity of many storms, especially tropical cyclones (the general term for hurricanes, typhoons and large cyclones). These cues and datasets are also vital to understanding the physical processes that underlie the genesis, intensification, and tracks of these storms. Visualizing 3D and 2D images in combined datasets in an interactive manner is crucial to improve the identification of such processes and patterns. The visualization and comprehension of storms also greatly benefits from the addition of other datasets, such as lightning, wind fields, and meteorological model outputs. As the current hurricane season has been predicted to be above-normal (https://whyy.org/articles/noaa-predicts-above-normal-atlantic-hurricane-season-stresses-it-only-takes-one/), there has been an increased concern and, consequently, interest in interactive visualization tools. 
