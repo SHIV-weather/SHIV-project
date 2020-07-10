@@ -1,5 +1,5 @@
 # SHIV-project
-An open-source application built with Unreal Engine 4 (UE4), known as the Storm and Hurricane Interactive Visualizer (SHIV). Our main goal is to provide an ‘interactive and extensible environment for authoring visualizations,’ to a wide spectrum of users - from researchers and meteorologists to casual weather observers. Through SHIV, users will be able to access, author, and export customizable weather data visualizations. 
+An open-source application built with Unreal Engine 4 (UE4), known as the Storm and Hurricane Interactive Visualizer (SHIV). Our main goal is to provide an interactive and extensible environment for authoring visualizations, to a wide spectrum of users - from researchers and meteorologists to casual weather observers. Through SHIV, users will be able to access, author, and export customizable weather data visualizations. 
 
 # Video
 https://youtu.be/AI84bBtcTp0
